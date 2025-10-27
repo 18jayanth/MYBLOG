@@ -21,15 +21,6 @@ A fully functional **Blog Application** built with **Django** that supports user
 
 ---
 
-## 📸 Screenshots
-
-| Home Page (Logged In) | Create Post | Edit Post |
-|-----------------------|-------------|-----------|
-| ![Home](screenshots/home.png) | ![Create](screenshots/create.png) | ![Edit](screenshots/edit.png) |
-
-> 🧠 Note: Add your screenshots in a `screenshots/` folder
-
----
 
 ## 🛠️ Tech Stack
 
